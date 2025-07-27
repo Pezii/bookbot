@@ -6,3 +6,5 @@ def get_book_text(file):
 def main():
     xd = get_book_text("/books/frankenstein.txt")
     print(xd)
+
+main()
